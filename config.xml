@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.universitaria.de.colombia.grupo.42"
+	id		= "com.universitaria.de.colombia.grupo.42.control.tesis"
 	version 	= "1.0.0-SNAPSHOT">
 	<name>Universitaria de Colombia</name>
 	<description>
