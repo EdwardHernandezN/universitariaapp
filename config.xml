@@ -15,5 +15,5 @@
 	<preference name="stay-in-webview" value="true" />
 	<allow-navigation href="*" />
 	<access origin="*" />
-	<plugin spec="https://github.com/apache/cordova-plugin-contacts.git" source="git" />
+	<plugin spec="https://github.com/apache/cordova-plugin-network-information.git" source="git" />
 </widget>
