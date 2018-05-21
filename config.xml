@@ -13,6 +13,7 @@
 	</author>
 	<icon src="icon.png" gap:role="default" />
 	<preference name="stay-in-webview" value="true" />
+	<allow-navigation href="http://taccolombia.com/u/*" />
 	<access origin="*" />
     <gap:plugin name="org.apache.cordova.network-information" version="0.2.7" />
 </widget>
