@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		= "com.universitaria.de.colombia.grupo.42"
+	version 	= "1.0.0-SNAPSHOT">
+	<name>Universitaria de Colombia</name>
+	<description>
+		Universitaria de Colombia - Gestión de Tesis-Grupo 42
+	</description>
+	<author href="https://github.com/EdwardHernandezN"
+		email="edward.hernandez.corp@gmail.com">
+		Edward
+	</author>
+	<icon src="icon.png" gap:role="default" />
+	<preference name="stay-in-webview" value="true" />
+	<access origin="*" />
+    <gap:plugin name="org.apache.cordova.network-information" version="0.2.7" />
+</widget>
