@@ -15,5 +15,5 @@
 	<preference name="stay-in-webview" value="true" />
 	<allow-navigation href="*" />
 	<access origin="*" />
-    <gap:plugin name="org.apache.cordova.network-information" version="0.2.7" />
+    <gap:plugin name="https://github.com/apache/cordova-plugin-network-information.git" version="2.2.0" source="git" />
 </widget>
