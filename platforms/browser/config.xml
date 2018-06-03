@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.universitaria.de.colombia.grupo.42" version="1.0.0-SNAPSHOT" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="co.com.pluapp.universitaria" version="3.7.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Universitaria de Colombia</name>
     <description>
 		Universitaria de Colombia - Gestión de Tesis-Grupo 42
@@ -8,7 +8,7 @@
 		Edward
 	</author>
     <icon gap:role="default" src="icon.png" />
+    <allow-navigation href="*" />
     <access origin="*" />
-    <gap:plugin name="org.apache.cordova.network-information" version="0.2.7" />
     <preference name="stay-in-webview" value="true" />
 </widget>
