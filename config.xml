@@ -2,7 +2,7 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "co.com.pluapp.universitaria"
-	version 	= "3.7.0">
+	version 	= "3.7.1">
 	<name>Universitaria de Colombia</name>
 	<description>
 		Universitaria de Colombia - Gestión de Tesis-Grupo 42
