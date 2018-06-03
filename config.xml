@@ -13,7 +13,9 @@
 	</author>
 	<icon src="icon.png" gap:role="default" />
 	<preference name="stay-in-webview" value="true" />
-	<allow-navigation href="*" />
+	<allow-navigation href="*" /> 
+	<allow-intent href="*" /> 
 	<access origin="*" />
+	<plugin name="cordova-plugin-whitelist" source="npm" spec="1.1.0" /> 
 	<plugin spec="https://github.com/apache/cordova-plugin-network-information.git" source="git" />
 </widget>
