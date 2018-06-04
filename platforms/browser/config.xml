@@ -12,4 +12,5 @@
     <allow-intent href="*" />
     <access origin="*" />
     <preference name="stay-in-webview" value="true" />
+    <preference name="EnableViewportScale" value="true" />
 </widget>
